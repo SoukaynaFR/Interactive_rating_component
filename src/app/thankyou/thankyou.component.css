@@ -1,0 +1,40 @@
+.card{
+    background-color: var(--Dark-Blue);
+    width: 300px;
+    height: 70vh;
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+svg{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.youSelected{
+    background-color:  hsl(216, 12%, 54%,0.2);
+    border-radius: 20px;
+    padding: 6px;
+    color: var(--Orange);
+    margin-bottom: 20px;
+}
+
+
+h3{
+    color: var(--White);
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+
+p{
+    color: var(--Medium-Grey);
+    margin-bottom: 20px;
+    font-size: 15px;
+    text-align: center;
+    width: 90%;
+
+}
