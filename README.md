@@ -1,6 +1,14 @@
 # InteractiveRatingComponent
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI).
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Mobile-first workflow
+- [Angular](https://angular.io/) - JS library
 
 ## Development server
 
